@@ -36,10 +36,10 @@ Principais tecnologias: Flutter, Dart, Android, iOS, Web, Clean Architecture, MV
 ## 🚀 Linguagens e Tecnologias
 
 ### 🎨Front-end
-![Front-end](https://skillicons.dev/icons?i=flutter,dart,react,angular,html,css,js,ts)
+![Front-end](https://skillicons.dev/icons?i=flutter,dart,html,css)
 
 ### ⚙️ Back-end
-![Back-end](https://skillicons.dev/icons?i=php,nodejs,python)
+![Back-end](https://skillicons.dev/icons?i=php,nodejs)
 
 ### 🗄️ Banco de Dados
 ![Banco de Dados](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
