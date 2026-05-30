@@ -1,5 +1,5 @@
 # 👨‍💻 Emmanoel Paim
-**Pleno Flutter Developer | Flutter Engineer | Android • iOS • Web | Clean Architecture | MVVM | Riverpod | Bloc**
+**Flutter Developer | Flutter Engineer | Android • iOS • Web**
 
 Comecei minha carreira antes do Flutter existir. Passei por suporte, infraestrutura, backend, web e Android nativo. Quando encontrei o Flutter, não encontrei apenas uma tecnologia — encontrei a especialização que unia tudo o que eu havia aprendido até então.
 
